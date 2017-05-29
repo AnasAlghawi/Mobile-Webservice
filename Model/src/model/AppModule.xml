@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1256" ?>
+<!DOCTYPE AppModule SYSTEM "jbo_03_01.dtd">
+<!---->
+<AppModule
+  xmlns="http://xmlns.oracle.com/bc4j"
+  Name="AppModule"
+  Version="12.2.1.12.2"
+  InheritPersonalization="merge"
+  ClearCacheOnRollback="true">
+  <ViewUsage
+    Name="PaymentOrderVO1"
+    ViewObjectName="model.PaymentOrderVO"/>
+  <ViewUsage
+    Name="UsersVO1"
+    ViewObjectName="model.UsersVO"/>
+</AppModule>
