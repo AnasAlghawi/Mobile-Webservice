@@ -13,4 +13,7 @@
   <ViewUsage
     Name="UsersVO1"
     ViewObjectName="model.UsersVO"/>
+  <ViewUsage
+    Name="DepartmentsVO1"
+    ViewObjectName="model.DepartmentsVO"/>
 </AppModule>
